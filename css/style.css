@@ -1,0 +1,20 @@
+a{
+  cursor: pointer;
+}
+
+.todos{
+  padding-left: 0;
+  margin-left: 0;
+}
+
+.todos li{
+  list-style: none;
+  padding: 20px 0;
+  float: left;
+  border-bottom: 1px solid #eee;
+}
+
+.todos li .btn-group{
+  padding: 5px 0;
+}
+
